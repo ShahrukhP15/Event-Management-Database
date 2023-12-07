@@ -1,5 +1,5 @@
 # Event Management Database
-CPSC304- Team-118
+Shahrukh Islam Prithibi
 
 ## Table Of Contents  
 - [Project Title](#event-management-database)
@@ -18,14 +18,8 @@ Key features of the project include:
 - **Event type**: Maintain information of the type of event to be held.
 - **Ticketing and Payment**: Handle event registration, payments, and ticketing.
 - **Staff Management**: Maintain staff profile and work assignments.
-- **Customer Information**: Store customer profile and their loyalty points. 
-
-
-## Team Members
-- Caitlin Wu
-- Linh Trinh
-- Shahrukh Islam Prithibi
-
+- **Customer Information**: Store customer profile and their loyalty points.
+- 
 ## Project Overview
 The Event Management Database project seeks to improve event planning and management processes by providing a centralized platform for event organizers. It enables users to create, update, and manage events and their associated data efficiently. The system will be built using a combination of SQL for the database backend and Java for the application's front-end and logic.
 
