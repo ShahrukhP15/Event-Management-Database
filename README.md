@@ -4,7 +4,6 @@ Shahrukh Islam Prithibi
 ## Table Of Contents  
 - [Project Title](#event-management-database)
 - [Project Description](#project-description)
-- [Team Members](#team-members)
 - [Project Overview](#project-overview)
 
 ## Project Description
