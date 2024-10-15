@@ -18,7 +18,7 @@ Key features of the project include:
 - **Ticketing and Payment**: Handle event registration, payments, and ticketing.
 - **Staff Management**: Maintain staff profile and work assignments.
 - **Customer Information**: Store customer profile and their loyalty points.
-- 
+  
 ## Project Overview
 The Event Management Database project seeks to improve event planning and management processes by providing a centralized platform for event organizers. It enables users to create, update, and manage events and their associated data efficiently. The system will be built using a combination of SQL for the database backend and Java for the application's front-end and logic.
 
